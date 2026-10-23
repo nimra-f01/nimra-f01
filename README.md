@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nimra 👋
 
-<!--
-**nimra-f01/nimra-f01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity undergraduate at Curtin University Dubai
 
-Here are some ideas to get you started:
+I'm currently building my skills in cybersecurity, networking, cloud computing, and machine learning, with a growing interest in security operations and AI-driven cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Interests
+
+- Cybersecurity
+- Security Operations
+- Network Security
+- AI & Machine Learning
+- Cyber Risk
+
+## 🛠️ Skills & Technologies
+
+- Python
+- SQL
+- Java
+- Cisco Networking / CCNA
+- Linux
+- AWS Cloud
+- Machine Learning
+
+## 📚 Currently Learning
+
+- Cybersecurity Operations
+- Linux Security
+- Network Security
+- Practical Security Tools
+
+## 📌 Projects
+
+Projects I'm currently building will be added here as I continue developing my practical cybersecurity skills.
+
+## 🔗 Connect with me
+
+[LinkedIn](YOUR-LINKEDIN-LINK)
